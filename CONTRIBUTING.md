@@ -10,7 +10,7 @@ We welcome developers, educators, designers, researchers, and accessibility advo
 ### 1. Fork the Repository
 Start by forking this repository and cloning it locally:
 ```bash
-git clone https://github.com/your-username/STEM-4Kids.git
+git clone https://github.com/Galactic-Code-Developers/STEM-4Kids.git
 ```
 
 ### 2. Set Up Your Environment
