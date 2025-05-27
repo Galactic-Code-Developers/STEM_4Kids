@@ -1,3 +1,4 @@
+
 # 🌟 STEM 4Kids with Special Needs
 
 Welcome to **STEM 4Kids with Special Needs**, an open-source initiative from [Kapodistrian.edu.gr](https://kapodistrian.edu.gr) dedicated to empowering **neurodiverse** and **special needs learners** with engaging, accessible, and scientifically accurate tools for exploring the universe.
@@ -42,7 +43,19 @@ We’re supported by GitHub Sponsors and global contributors like you. A **$5/mo
 - Provide learning kits to underserved communities  
 - Keep all materials free for educators and parents  
 
-🔗 [Become a Sponsor](https://github.com/sponsors/Galactic-Code-Developers)
+> 🧬 A note from a scientist on the spectrum:
+
+As a physicist and educator with Asperger's syndrome and dyslexia, I know firsthand how traditional learning environments can exclude brilliant minds. This project is personal. It’s about ensuring that no child feels left behind simply because their brain works differently.
+
+Science gave me a universe to belong to—this initiative is how we give it back.
+
+🌟 Please consider supporting us at $5 or $10/month to help build tools that speak the language of every learner.
+
+<p align="center">
+  <a href="https://github.com/sponsors/Galactic-Code-Developers">
+    <img src="https://img.shields.io/badge/Sponsor_on_GitHub-%245+_per_month-blueviolet?style=for-the-badge&logo=github" alt="Sponsor STEM4Kids on GitHub" />
+  </a>
+</p>
 
 ---
 
@@ -81,3 +94,4 @@ Have questions or ideas? Want to collaborate?
 > “The universe is full of questions—and every child deserves a chance to ask them.”
 
 🧠💡🌌
+
